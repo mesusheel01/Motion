@@ -8,10 +8,10 @@ import MotionHooksExample from "@/components/motion-hooks-example";
 export default function page() {
   return (
     <div className=" min-h-screen">
-        <Button />
+        {/* <Button /> */}
         <Card />
-        <Dashboard />
-        <MotionHooksExample />
+        {/* <Dashboard />
+        <MotionHooksExample /> */}
 
     </div>
   )
